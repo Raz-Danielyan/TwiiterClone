@@ -1,0 +1,74 @@
+{
+  "tweets": [
+    {
+      "_id": "5f625ff6bd97609c6925e2b4",
+      "text": "ill be back\n",
+      "user": {
+        "fullname": "Dickerson Mcleod",
+        "username": "kirk",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      },
+      "id": 1
+    },
+    {
+      "_id": "5f625ff6bd91609c6925e2b4",
+      "text": "what are you du hare\n",
+      "user": {
+        "fullname": "Dickerson Mcleod",
+        "username": "kirk",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      },
+      "id": 2
+    },
+    {
+      "_id": "5f625ff6bd97009c6925e2b4",
+      "text": "es pahin chem uzum nayem jamin",
+      "user": {
+        "fullname": "Dickerson Mcleod",
+        "username": "kirk",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+      },
+      "id": 3
+    }
+  ],
+  "tags": [
+    {
+      "_id": "5f625ff6bd97609c6925e2b1",
+      "name": "#HandOfRusshionHistory",
+      "count": 128
+    },
+    {
+      "_id": "5f625ff6bd9760906925e2b4",
+      "name": "Armenia",
+      "count": 4230
+    },
+    {
+      "_id": "5f625ff6bd97o09c6925e2b4",
+      "name": "#NotForgotForWhyWeDutHis",
+      "count": 23
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Dickerson Mcleod",
+      "username": "kirk",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    },
+    {
+      "fullname": "Hewitt Nelson",
+      "username": "matthews",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    },
+    {
+      "fullname": "Mcneil Herring",
+      "username": "mueller",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    }
+  ],
+  "user": {
+    "_id": "5f625ff6bd97609c6925e2b4",
+    "fullname": "Raz_Danielyan",
+    "username": "Bare",
+    "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+  }
+}
